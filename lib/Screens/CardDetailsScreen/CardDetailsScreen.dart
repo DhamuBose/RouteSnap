@@ -91,6 +91,7 @@ Widget build(BuildContext context) {
 class TrackingLinePainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
+    final paint = Paint()
       ..color = Colors.blue // Change the color as needed
       ..strokeCap = StrokeCap.round
       ..strokeWidth = 10; // Increase the line size
