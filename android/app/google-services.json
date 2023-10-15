@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50490977459",
+    "project_id": "routesnap-2cde8",
+    "storage_bucket": "routesnap-2cde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50490977459:android:ea839fd26773c1e889d4c6",
+        "android_client_info": {
+          "package_name": "com.example.routesnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50490977459-ehcnt001bd276tng63gkaooou5utqerp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.routesnap",
+            "certificate_hash": "e71c399dbaf364bf41b5ec10f955747182960993"
+          }
+        },
+        {
+          "client_id": "50490977459-3dol67a1vb6u0fiibigkf8jflo76c2b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWm5DUp916U7fmd0Vio5nYaWkfMB7ELs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50490977459-3dol67a1vb6u0fiibigkf8jflo76c2b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
