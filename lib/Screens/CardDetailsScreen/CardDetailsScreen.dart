@@ -102,7 +102,6 @@ class TrackingLinePainter extends CustomPainter {
     canvas.drawLine(Offset(centerX, 0), Offset(centerX, size.height), paint);
 
     // Draw three dots
-    canvas.drawCircle(Offset(centerX, size.height / 6), 10, paint);
     canvas.drawCircle(Offset(centerX, size.height / 2), 10, paint);
     canvas.drawCircle(Offset(centerX, 5 * size.height / 6), 10, paint);
   }
