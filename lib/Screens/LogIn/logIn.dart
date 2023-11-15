@@ -84,7 +84,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               Container(
                                 child: _isLoading
                                     ? CircularProgressIndicator(
-                                  color: Colors.blueAccent,
+                                  color: Colors.black,
                                 )
                                     : RawMaterialButton(
                                   elevation: 0.0,
@@ -105,7 +105,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                       _isLoading = false;
                                     });
                                   },
-                                  fillColor: Colors.indigoAccent,
+                                  fillColor: Colors.black,
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(15.0),
                                     side: BorderSide(color: Colors.grey),
